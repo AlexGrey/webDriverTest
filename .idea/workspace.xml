@@ -34,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebDriverTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WebDriverTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/WebDriverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40490797">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="131" column="21" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#WebDriverTest#0" expanded="false" />
@@ -54,7 +54,6 @@
                 <element signature="docComment;method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
                 <element signature="method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
                 <element signature="docComment;method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
-                <element signature="method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
                 <element signature="docComment;method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
                 <element signature="method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
               </folding>
@@ -62,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmailGenerator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EmailGenerator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/EmailGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.24744377">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -98,9 +97,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/MainTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/EmailGenerator.java" />
         <option value="$PROJECT_DIR$/src/test/java/WebDriverTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/EmailGenerator.java" />
       </list>
     </option>
   </component>
@@ -666,12 +665,12 @@
       <workItem from="1452705061869" duration="4547000" />
       <workItem from="1452709999139" duration="7178000" />
       <workItem from="1452790934021" duration="12946000" />
-      <workItem from="1452926317272" duration="5534000" />
+      <workItem from="1452926317272" duration="6045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35712000" />
+    <option name="totallyTimeSpent" value="36223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -752,7 +751,6 @@
             <element signature="docComment;method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
-            <element signature="method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
           </folding>
@@ -794,7 +792,6 @@
             <element signature="docComment;method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
-            <element signature="method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
           </folding>
@@ -836,7 +833,6 @@
             <element signature="docComment;method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
-            <element signature="method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
           </folding>
@@ -878,18 +874,9 @@
             <element signature="docComment;method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
-            <element signature="method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EmailGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,8 +890,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WebDriverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40490797">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="131" column="21" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#WebDriverTest#0" expanded="false" />
@@ -920,10 +907,17 @@
             <element signature="docComment;method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#openModalFreeTrialProfessional#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
-            <element signature="method#sendEmailOnFreeTrialPage#0;class#WebDriverTest#0" expanded="false" />
             <element signature="docComment;method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
             <element signature="method#checkSentSuccessfully#0;class#WebDriverTest#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EmailGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24744377">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>

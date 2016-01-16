@@ -4,7 +4,7 @@ import java.util.Random;
  * Created by Zver on 13.01.2016.
  */
 public class EmailGenerator {
-    private final String AB = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    private final String SYMBOLS = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private final Random rand = new Random();
 
     /**
@@ -12,7 +12,7 @@ public class EmailGenerator {
      *
      * @param length длина генерируемого имени
      * @param domain шаблонный домен
-     * @return
+     * @return email
      */
     public String randomEmail(int length, String domain) {
         String name = randomName(length);
@@ -22,13 +22,13 @@ public class EmailGenerator {
     /**
      * генерация имени
      *
-     * @param len длина генерируемого имени
-     * @return
+     * @param length длина генерируемого имени
+     * @return name
      */
-    private String randomName(int len) {
-        StringBuffer sb = new StringBuffer(len);
-        for (int i = 0; i < len; i++)
-            sb.append(AB.charAt(rand.nextInt(AB.length())));
+    private String randomName(int length) {
+        StringBuffer sb = new StringBuffer(length);
+        for (int i = 0; i < length; i++)
+            sb.append(SYMBOLS.charAt(rand.nextInt(SYMBOLS.length())));
         return sb.toString();
     }
 }
